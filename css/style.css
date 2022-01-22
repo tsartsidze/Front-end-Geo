@@ -1,0 +1,16 @@
+.first-section {
+    margin-top: 63px;
+}
+.map {
+    width: 100%;
+    height: 100%;
+}
+.map-1 {
+    border-radius: 20px
+}
+/* Newsletter */
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
